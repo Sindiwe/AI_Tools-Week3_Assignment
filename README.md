@@ -1,5 +1,4 @@
 # AI_Tools-Week3_Assignment
-Here is the README content again for your solo assignment. Please copy this text and save it as a file named README.md in the root directory of your project.
 
 AI Tools & Frameworks Assignment: Exploring Real-World AI Applications
 
